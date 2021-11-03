@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Web development.
 - 📫 How to reach me; ekimcemulger@gmail.com
-- LinkedIn : https://www.linkedin.com/in/ekimcem/
-- Dev.to : https://dev.to/ekimcem
-- Twitter:https://twitter.com/cemekim
+ <a href= "https://www.linkedin.com/in/ekimcem/">LinkedIn</a> |
+ <a href= "https://dev.to/ekimcem">dev.to</a> |
+ <a href= "https://twitter.com/cemekim">Twitter</a> 
