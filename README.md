@@ -6,4 +6,4 @@
  <a href= "https://dev.to/ekimcem">dev.to</a> |
  <a href= "https://twitter.com/cemekim">Twitter</a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekimcem&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekimcem&rank=-C,-B, ?)](https://github.com/ryo-ma/github-profile-trophy)
