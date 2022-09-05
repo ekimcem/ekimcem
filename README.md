@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ekimcem
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Web development.
-- 📫 How to reach me; <a href="ekimcemulger@gmail.com">Mail</a> |
+- 👀 We are building web and mobile applications with my team @bronixengineering !
+- 📫 How to reach me; <a href="ekim@bronixengineering.com">Mail</a> |
  <a href= "https://www.linkedin.com/in/ekimcem/">LinkedIn</a> |
  <a href= "https://dev.to/ekimcem">dev.to</a> |
  <a href= "https://twitter.com/cemekim">Twitter</a> 
